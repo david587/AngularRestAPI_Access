@@ -1,0 +1,22 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Perdi István",
+            "city": "Szolnok",
+            "salary": 2350000
+        },
+        {
+            "id": 2,
+            "name": "Aradi Ferenc",
+            "city": "Szeged",
+            "salary": 2853000
+        },
+        {
+            "id": 3,
+            "name": "Langyos Béla",
+            "city": "Szolnok",
+            "salary": 2144000
+        }        
+    ]
+}
